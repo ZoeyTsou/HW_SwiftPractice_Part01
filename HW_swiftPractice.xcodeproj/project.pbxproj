@@ -15,6 +15,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C487E6E21DBCCE1B003F28CE /* HW06.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW06.playground; sourceTree = "<group>"; };
+		C487E6E31DBCD684003F28CE /* HW07.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW07.playground; sourceTree = "<group>"; };
+		C487E6E41DBCD986003F28CE /* HW08.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW08.playground; sourceTree = "<group>"; };
 		C4AEF4CD1DB8C6AC0080CCD4 /* HW_swiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW_swiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4AEF4D01DB8C6AC0080CCD4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C4AEF4D21DB8C6AC0080CCD4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,7 +25,11 @@
 		C4AEF4D71DB8C6AC0080CCD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4AEF4DA1DB8C6AC0080CCD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4AEF4DC1DB8C6AC0080CCD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C4AEF4E21DB8C6C20080CCD4 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		C4AEF4E21DB8C6C20080CCD4 /* HW01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW01.playground; sourceTree = "<group>"; };
+		C4AEF4E31DB8C7590080CCD4 /* HW02.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW02.playground; sourceTree = "<group>"; };
+		C4AEF4E41DB8CB1B0080CCD4 /* HW03.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW03.playground; sourceTree = "<group>"; };
+		C4AEF4E51DB8CE1A0080CCD4 /* HW04.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW04.playground; sourceTree = "<group>"; };
+		C4AEF4E61DB8D0E20080CCD4 /* HW05.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW05.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,7 +46,14 @@
 		C4AEF4C41DB8C6AC0080CCD4 = {
 			isa = PBXGroup;
 			children = (
-				C4AEF4E21DB8C6C20080CCD4 /* MyPlayground.playground */,
+				C487E6E41DBCD986003F28CE /* HW08.playground */,
+				C487E6E31DBCD684003F28CE /* HW07.playground */,
+				C487E6E21DBCCE1B003F28CE /* HW06.playground */,
+				C4AEF4E61DB8D0E20080CCD4 /* HW05.playground */,
+				C4AEF4E51DB8CE1A0080CCD4 /* HW04.playground */,
+				C4AEF4E41DB8CB1B0080CCD4 /* HW03.playground */,
+				C4AEF4E31DB8C7590080CCD4 /* HW02.playground */,
+				C4AEF4E21DB8C6C20080CCD4 /* HW01.playground */,
 				C4AEF4CF1DB8C6AC0080CCD4 /* HW_swiftPractice */,
 				C4AEF4CE1DB8C6AC0080CCD4 /* Products */,
 			);
@@ -302,6 +316,7 @@
 				C4AEF4E11DB8C6AC0080CCD4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
